@@ -1,0 +1,266 @@
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .team_social {
+	position: absolute;
+	left: 52%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	width: 74%;
+}
+.counter-area {
+	padding: 40px 63px;
+	text-align: center;
+}  
+ .one {
+	font-size: 74px;
+	padding: 42px 0;
+}   
+    
+    
+    
+ .icon h6 {
+	font-size: 10px;
+}
+ 
+    
+    
+    
+.follow_number::before {
+	position: absolute;
+	content: '';
+	left: 0;
+	top: 100%;
+	width: 297px;
+	height: 1px;
+	background: #E5E5E5;
+}
+input {
+
+	width: 270px;
+}
+.btn {
+	right: 6px;
+	
+}  
+	
+
+    
+    
+} 
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+.navbar-light .navbar-toggler {
+	top: 14px;
+	position: absolute;
+	right: 16px;
+}
+.text-uppercase {
+	background: #4444;
+	padding: 25px 200px;
+    margin-top: 14px;
+}
+.banner_text h2 {
+	font-size: 66px;
+	
+}
+.banner_text h1 {
+	font-size: 84px;
+}
+.one {
+	font-size: 49px;
+	width: 168px;
+	
+}
+ .one h5 {
+	font-size: 8px;
+	
+}
+ .team_social {
+	width: 31%;
+}
+ input {
+	width: 338px;
+}
+   .btn {
+     right: 337px;
+	
+} 
+    
+    
+}
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+.navbar-light .navbar-toggler {
+	top: 10px;
+	position: absolute;
+	right: 10px;
+}
+.text-uppercase {
+	background: #444;
+	padding: 25px 113px;
+	margin-top: 14px;
+}
+    
+    
+    
+    
+.banner_text h2 {
+	font-size: 34px;
+	line-height: 36px;
+}
+.banner_text h1 {
+	font-size: 36px;
+}
+    
+  .section_title p {
+	font-size: 14px;
+	padding: 0;
+	
+}  
+    
+    
+    
+ .about_images .single_image {
+	position: relative;
+	margin-bottom: 20px;
+}
+    .counter-area {
+        padding: 0;
+	text-align: center;
+}
+    
+.cback {
+   height: 374px;
+	
+	
+}    
+    
+    
+.one {
+	font-size: 37px;
+	
+}
+ .one h5 {
+	font-size: 8px;
+	color: antiquewhite;
+	text-transform: uppercase;
+	text-align: center;
+}
+.service_area h2::before {
+	position: absolute;
+    top: 144px;
+	
+}
+.service_icon {
+	top: -60px;
+	position: absolute;
+	left: 129px;
+}
+ .slider_img {
+	height: 37px;
+	width: 31px;
+}   
+.left_arrow, .right_arrow {
+	position: absolute;
+	top: 114%;
+	font-size: 42px;
+	background: #4444;
+    width: 39px;
+    height: 65px;
+    border-radius: 50%;
+}
+.left_arrow {
+	left: 45px;
+}
+ .right_arrow{
+     right:50px;
+}
+    
+.work_title h5::before {
+	top: 42%;
+	
+}
+.single_work .images {
+	margin-bottom: 20px;
+}  
+    
+.logo_text {
+	left: -13px;
+}    
+.follow_number::before {
+	width: 297px;
+}
+.follow_number {
+	left: -14px;
+}
+    
+ 
+    
+    
+    
+    
+    
+    
+.input {
+	width: 281px;
+}  
+ .btn {
+ right: -5px;
+}   
+    
+    
+    
+.team_social {
+	position: absolute;
+	left: 53%;
+    width: 36%;
+}
+
+.copyride p {
+    padding: 40px 0;
+	top: -119px;
+	position: absolute;
+	left: 22%;
+	font-size: 9px;
+
+}    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
